@@ -1,1 +1,35 @@
-npm create vite@4.1.0
+command: npm create vite@4.1.0
+example: PS E:\Software Engineering Lab\React Practice> npm create vite@4.1.0
+
+command: y
+example: Need to install the following packages:
+create-vite@4.1.0
+Ok to proceed? (y) y
+
+
+✓ Project name: react-practice
+✓ Select a framework: >> React ✓ Select a variant: » Typescript
+Scaffolding project in E:\Software Engineering Lab\React Practice\react-practice...
+Done. 
+
+
+Now run:
+cd react-practice
+npm install
+npm run dev
+
+
+babeljs.io/repl
+
+
+If Sir's 
+cd project-name
+npm install
+npm start 
+
+
+if new 
+npx create-react-app my-app --template typescript
+cd my-app
+npm start
+
