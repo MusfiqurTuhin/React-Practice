@@ -1,10 +1,11 @@
-import react from 'react';
-import Navbar from './components/Navbar';
+import React from 'react';
+import Whatwecollect from './components/Whatwecollect.tsx';
+
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
+     <Whatwecollect />
     </div>
   );
 }
